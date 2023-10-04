@@ -53,7 +53,7 @@ it('Onboard_Jainam', () => {
    cy.get('.k-window-actions').click()
    cy.wait(3000)
 
-//    //Edit the details
-//    cy.get('[data-kendo-grid-item-index="2"] > [aria-colindex="1"] > a > .fa').click()
-//    cy.wait(3000)
+    //    //Edit the details
+   //    cy.get('[data-kendo-grid-item-index="2"] > [aria-colindex="1"] > a > .fa').click()
+   //    cy.wait(3000)
   })
